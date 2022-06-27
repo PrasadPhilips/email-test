@@ -1,7 +1,5 @@
 
-clean fi
-x the 
-image
+clean fix the image
 uugfj
 
 
