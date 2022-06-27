@@ -7,16 +7,5 @@ sdsfds
 uhsdfudsj
 fs
 
-<<<<<<< HEAD
-jsmsjdfjsdf
 
-
-idof pull request checking for develop branch......................
-=======
-idof pull request c
-
-
-hecking for develop 
-
-branch......................
->>>>>>> eae6654541b153b02b221c6dbfa7ff3786b440d2
+=
