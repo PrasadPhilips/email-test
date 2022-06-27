@@ -2,7 +2,10 @@
 # email-tejjnvdvfdvdfst
 =======
 dssdsdffdsf# email-test
->>>>>>> eae6654541b153b02b221c6dbfa7ff3786b440d2
+>>>>>>> eae6654541b153b02b221c6dbfa7ff378
+
+jcdsfjsdfjdsf
+6b440d2
 checking email notification for github email.
 
 Hi yes
