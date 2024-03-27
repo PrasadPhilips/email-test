@@ -1,1 +1,3 @@
+ligt = red
 
+echo $ligt
